@@ -28,3 +28,4 @@ npm start
 ```
 
 Visit [`http://localhost:4040/`](http://localhost:4040/) to access the starter application.
+# client-template-rails-auth0
